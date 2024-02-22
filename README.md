@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://res.cloudinary.com/dv8400fc2/image/upload/v1708611838/weather-app_ane8wi.jpg" width="500" alt="logo"/>
-  
+  <img src="https://github.com/Pallavi-Langhe/weather-app/assets/91686147/5ace0308-2603-4227-a51c-a78c2e7c834f" width="500" alt="logo"/>
+
   # [Web application](https://weather-application-v1.vercel.app/)
     
 </div>
