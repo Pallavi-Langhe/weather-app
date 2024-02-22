@@ -13,7 +13,7 @@
 
 ```
 $ git clone https://github.com/Pallavi-Langhe/weather-app.git
-$ cd book_shelf
+$ cd weather-app
 $ npm install
 $ npm start
 ```
