@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://res.cloudinary.com/dv8400fc2/image/upload/v1708611838/weather-app_ane8wi.jpg" width="500" alt="logo"/>
   
-  # [Weather forecasting web application](https://weather-application-v1.vercel.app/)
+  # [Web application](https://weather-application-v1.vercel.app/)
     
 </div>
 <div align="center">
