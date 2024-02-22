@@ -2,3 +2,9 @@
   max-width: 1080px;
   margin: 20px auto;
 }
+.app-heading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #444444;
+}

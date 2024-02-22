@@ -33,6 +33,7 @@ function App() {
 
   return (
     <div className="container">
+      <h1 className="app-heading">Weather Forecasting App</h1>
       <Search onSearchChange={handleOnSearchChange} />
       {currentWeather && <CurrentWeather data={currentWeather} />}
       {forecast && <Forecast data={forecast} />}
@@ -41,4 +42,3 @@ function App() {
 }
 
 export default App;
-
