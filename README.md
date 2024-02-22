@@ -5,7 +5,8 @@
     
 </div>
 <div>
-  # (https://res.cloudinary.com/dv8400fc2/image/upload/v1708612404/cover-weather-app_frinfy.jpg)
+  <img src="[https://res.cloudinary.com/dv8400fc2/image/upload/v1708611838/weather-app_ane8wi.jpg](https://res.cloudinary.com/dv8400fc2/image/upload/v1708612404/cover-weather-app_frinfy.jpg)" width="500" alt="logo"/>
+  
 </div>
 
 ## **How to install the bookshelf and run locally ?**
