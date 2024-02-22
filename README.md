@@ -5,7 +5,7 @@
     
 </div>
 <div>
-  <img src="[https://res.cloudinary.com/dv8400fc2/image/upload/v1708611838/weather-app_ane8wi.jpg](https://res.cloudinary.com/dv8400fc2/image/upload/v1708612404/cover-weather-app_frinfy.jpg)" width="500" alt="logo"/>
+  <img src="https://res.cloudinary.com/dv8400fc2/image/upload/v1708612404/cover-weather-app_frinfy.jpg" width="500" alt="logo"/>
   
 </div>
 
@@ -40,4 +40,4 @@ $ npm start
 ## **Demo -**
 
 
-https://res.cloudinary.com/dv8400fc2/video/upload/v1708612485/Video_Title_-_22nd_February_2024_ribok4.mp4
+
