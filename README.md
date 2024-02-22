@@ -9,7 +9,7 @@
   
 </div>
 
-## **How to install the bookshelf and run locally ?**
+## **How to install the weather forecast app and run locally ?**
 
 ```
 $ git clone https://github.com/Pallavi-Langhe/weather-app.git
